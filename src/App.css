@@ -187,6 +187,7 @@ ul {
   width: 90%;
   border-radius: 20px;
   position: relative;
+  transition: 3s;
 }
 
 .close-button {
