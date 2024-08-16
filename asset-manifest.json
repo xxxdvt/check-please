@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/check-please/static/css/main.07b716a5.css",
+    "main.js": "/check-please/static/js/main.f6c83b73.js",
+    "static/js/453.ab80f836.chunk.js": "/check-please/static/js/453.ab80f836.chunk.js",
+    "static/media/check-logo.png": "/check-please/static/media/check-logo.79bad2c4d57178cd0025.png",
+    "static/media/sushi.png": "/check-please/static/media/sushi.a8c4debac68af6ca6e81.png",
+    "static/media/pizza.png": "/check-please/static/media/pizza.3e091a69301e5f3568ad.png",
+    "static/media/banana.png": "/check-please/static/media/banana.85f9b6336c4b1ea9a3f5.png",
+    "static/media/hotdog.png": "/check-please/static/media/hotdog.cd0311d4bd5d8901330d.png",
+    "static/media/pancakes.png": "/check-please/static/media/pancakes.215316ead9b6ffd32596.png",
+    "static/media/donut.png": "/check-please/static/media/donut.d3680be9a7c3affdee3c.png",
+    "static/media/ice-cream.png": "/check-please/static/media/ice-cream.0875fdc616c6036aad30.png",
+    "static/media/burger.png": "/check-please/static/media/burger.f326c266226bf55bf034.png",
+    "static/media/taco.png": "/check-please/static/media/taco.af0a573469bc69ab625e.png",
+    "static/media/apple.png": "/check-please/static/media/apple.68669a7b1b8b5d11c760.png",
+    "static/media/french-fries.png": "/check-please/static/media/french-fries.c7fa4e989655cc9f26b3.png",
+    "static/media/coffee.png": "/check-please/static/media/coffee.f9c2ec59d9bfbbfbbef1.png",
+    "index.html": "/check-please/index.html",
+    "main.07b716a5.css.map": "/check-please/static/css/main.07b716a5.css.map",
+    "main.f6c83b73.js.map": "/check-please/static/js/main.f6c83b73.js.map",
+    "453.ab80f836.chunk.js.map": "/check-please/static/js/453.ab80f836.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07b716a5.css",
+    "static/js/main.f6c83b73.js"
+  ]
+}
