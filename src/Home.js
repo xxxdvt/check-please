@@ -41,7 +41,7 @@ function Home() {
     };
 
     const handleSubmit = () => {
-        navigate('/app', { state: { value: count } });
+        navigate('/check-please/app', { state: { value: count } });
     };
     
     return (

@@ -92,7 +92,7 @@ function App() {
 
   return (
     <div className="App">
-      <Link to='/' className='back-btn'>Reset</Link>
+      <Link to='/check-please/' className='back-btn'>Reset</Link>
       <header>
       <img src={logo} alt='logo' className='logo-img-app' />
       <span><span className='text'>check, please!</span></span>
