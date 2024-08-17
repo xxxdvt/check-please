@@ -56,7 +56,7 @@ header span .text {
   justify-content: space-evenly;
 }
 
-.all-pay-sum input[type='number'] {
+.all-pay-sum input[type='tel'] {
   height: 50px;
   background-color: #F2F4F6;
   border-radius: 20px 0px 0px 20px;
