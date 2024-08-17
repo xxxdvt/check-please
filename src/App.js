@@ -98,7 +98,7 @@ function App() {
       <span><span className='text'>check, please!</span></span>
       </header>
       <div className='all-pay-sum'>
-        <input type='tel' placeholder='0' className='curr-sum' inputMode='decimal' pattern="^-?\d*\.?\d*$" />
+        <input type='tel' placeholder='0' className='curr-sum' pattern="^-?\d*\.?\d*$" onInput="this.value = this.value.replace(/[^0-9\-\.]/g, '')" />
         <input type="button" className='choose' onClick={handleChooseClick} value='choose' />
         <input type="button" className='for-all' onClick={splitCost} value="split" />
       </div>
