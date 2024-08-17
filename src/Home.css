@@ -30,7 +30,7 @@
 .less, .more {
     width: 50px;
     height: 50px;
-
+    text-decoration: none;
 }
 
 .less {
@@ -53,7 +53,7 @@
     border: None;
     width: 150px;
     height: 50px;
-    margin-top: 1px;
+    padding: 0;
 }
 
 .success-btn-enter {

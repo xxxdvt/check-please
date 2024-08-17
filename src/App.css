@@ -10,6 +10,7 @@
   margin-top: 20px;
   float: right;
   text-decoration: none;
+  text-decoration-color: black;
 }
 
 
@@ -60,7 +61,7 @@ header span .text {
   background-color: #F2F4F6;
   border-top-left-radius: 20px;
   border-bottom-left-radius: 20px;
-  width: 40%;
+  width: 35%;
   font-family: 'Montserrat';
   font-size: 30px;
   padding-left: 10px;
@@ -69,7 +70,9 @@ header span .text {
 }
 
 .all-pay-sum button {
-  width: 25%;
+  width: 28%;
+  text-decoration: none;
+  text-decoration-color: black;
   height: 52px;
   border: none;
   font-size: 18px;
