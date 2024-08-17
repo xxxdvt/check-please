@@ -56,24 +56,25 @@ header span .text {
   justify-content: space-evenly;
 }
 
-.all-pay-sum input {
+.all-pay-sum input[type='number'] {
   height: 50px;
   background-color: #F2F4F6;
-  border-top-left-radius: 20px;
-  border-bottom-left-radius: 20px;
+  border-radius: 20px 0px 0px 20px;
   width: 35%;
   font-family: 'Montserrat';
   font-size: 30px;
+  padding: 0;
   padding-left: 10px;
   text-align: center;
   border: none;
+
 }
 
-.all-pay-sum button {
+.all-pay-sum input[type='button'] {
   width: 28%;
   text-decoration: none;
   text-decoration-color: black;
-  height: 52px;
+  height: 50px;
   border: none;
   font-size: 18px;
   letter-spacing: 2px;

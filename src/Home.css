@@ -36,21 +36,20 @@
 .less {
     border: None;
     background-color: #F0F6F4;
-    border-top-left-radius: 20px;
-    border-bottom-left-radius: 20px;
+    border-radius: 20px 0px 0px 20px; 
 }
 
 .more {
     border: None;
     background-color: #F0F6F4;
-    border-top-right-radius: 20px;
-    border-bottom-right-radius: 20px;
+    border-radius: 0px 20px 20px 0px; 
 }
 
 .count {
     background-color: #F0F6F4;
     text-align: center;
     border: None;
+    border-radius: 0;
     width: 150px;
     height: 50px;
     padding: 0;

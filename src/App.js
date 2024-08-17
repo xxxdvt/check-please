@@ -99,8 +99,8 @@ function App() {
       </header>
       <div className='all-pay-sum'>
         <input type='number' placeholder='0' className='curr-sum' />
-        <button className='choose' onClick={handleChooseClick}>choose</button>
-        <button className='for-all' onClick={splitCost}>split</button>
+        <input type="button" className='choose' onClick={handleChooseClick} value='choose' />
+        <input type="button" className='for-all' onClick={splitCost} value="split" />
       </div>
       <div className='main-container'>
           <ul>
