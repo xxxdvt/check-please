@@ -76,6 +76,7 @@ header span .text {
   text-decoration-color: black;
   height: 50px;
   border: none;
+  text-align: center;
   font-size: 18px;
   letter-spacing: 2px;
   font-family: 'Montserrat';
