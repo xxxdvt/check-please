@@ -83,9 +83,13 @@ header span .text {
   background-color: #F2F4F6;
 }
 
+.choose {
+  border-radius: 0px;
+  padding: 0;
+}
+
 .for-all {
-  border-top-right-radius: 20px;
-  border-bottom-right-radius: 20px;
+  border-radius: 0px 20px 20px 0px;
 }
 
 .main-container {
